@@ -7,7 +7,7 @@ Premium autoscript installer used to install SSH, STUNNEL, OVPN, V2RAY, and SQUI
 
 - Debian 10 x64
 
-apt install -y screen wget && wget https://raw.githubusercontent.com/BADBOX-AutoScriptDebian10/main/Debian10 && chmod +x Debian10 && sed -i -e 's/\r$//' Debian10 && screen -S Debian10 ./Debian10
+apt install -y screen wget && wget https://raw.githubusercontent.com/BADB0X/BADBOX-AutoScriptDebian10/main/Debian10 && chmod +x Debian10 && sed -i -e 's/\r$//' Debian10 && screen -S Debian10 ./Debian10
 
 
 ### Important Information:
@@ -76,6 +76,6 @@ In Begging Of Script Or Click Enter
 Digital Ocean | Linode VPS Recommended
 Contact Me Facebook or Telegram 
 
-- Telegram: https://t.me/Joash_Singh
+- Wedbiste: www.phcracker.net
 
-- Facebook: Joash Singh
+- Facebook: PHCrackers Underground
